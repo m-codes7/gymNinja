@@ -2,17 +2,17 @@
 
 A personal gym tracking web app built with React. Create a profile, log your workouts, track your goals, and visualise your weight progress. All in one dashboard.
 
-> **Privacy first:** GymNinja has no backend, no accounts, and no data collection. Everything you enter is stored entirely in **your own browser's localStorage** and never leaves your machine. There are no servers, no analytics, and no third parties — your data is for your personal use only.
+> **Privacy first:** GymNinja has no backend, no accounts, and no data collection. Everything you enter is stored entirely in **your own browser's localStorage** and never leaves your machine. There are no servers, no analytics, and no third parties. All data is for your personal use only.
 
 ## Features
 
-- **Profile setup** — enter your name, age, height and weight to get started
-- **Personalised welcome screen** — greeted by name, with one press of Enter to enter the gym
-- **Custom workout splits** — create, edit, and delete your own splits (e.g. Push/Pull/Legs) with days and exercises
-- **Workout logging** — record sessions with date, split/day, exercises, sets, reps and weight, and session duration
-- **Automatic stats** — GymNinja calculates your time in the gym per week and total weight lifted
-- **Goal tracking** — set lift targets or weekly training-time goals, and mark them as achieved
-- **Weight tracker** — log your body weight over time and view a line chart of your progress
+- **Profile setup** : enter your name, age, height and weight to get started
+- **Personalised welcome screen** : greeted by name, with one press of Enter to enter the gym dashboard
+- **Custom workout splits** : create, edit, and delete your own splits (e.g. Push/Pull/Legs) with days and exercises
+- **Workout logging** : record sessions with date, split/day, exercises, sets, reps and weight, and session duration
+- **Automatic stats** : GymNinja calculates your time in the gym per week and total weight lifted
+- **Goal tracking** : set lift targets or weekly training-time goals, and mark them as achieved
+- **Weight tracker** : log your body weight over time and view a line chart of your progress
 
 ## Tech Stack
 
@@ -105,6 +105,7 @@ gym-tracker/
 ## Roadmap Ideas
 
 - Export/import your data as a JSON file for portability
+- Diet goals : Calorie and Protein Intake
 - More chart types (volume trends, exercise progress)
 - Workout templates / exercise database
 - Notifications or reminders

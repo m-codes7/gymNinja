@@ -2,6 +2,8 @@
 
 A personal gym tracking web app built with React. Create a profile, log your workouts, track your goals, and visualise your weight progress. All in one dashboard.
 
+> **Live demo:** https://m-codes7.github.io/gymNinja/
+
 > **Privacy first:** GymNinja has no backend, no accounts, and no data collection. Everything you enter is stored entirely in **your own browser's localStorage** and never leaves your machine. There are no servers, no analytics, and no third parties. All data is for your personal use only.
 
 ## Features

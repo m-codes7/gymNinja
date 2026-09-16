@@ -37,7 +37,7 @@ A personal gym tracking web app built with React. Create a profile, log your wor
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/m-codes7/gymNinja.git
    cd gym-tracker
    ```
 
